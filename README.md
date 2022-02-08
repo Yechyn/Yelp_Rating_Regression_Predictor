@@ -1,19 +1,21 @@
 # Yelp_Rating_Regression_Predictor
 
 Project: Yelp Rating Regression Predictor
-In this project we'll be working with a real dataset provided by Yelp. There are six files, listed below with a brief description:
+In this project, we will use real data from Yelp to predict the Yelp rating of a restaurant.
 
-yelp_business.json: 
-establishment data regarding location and attributes for all businesses in the dataset
-yelp_review.json:
-Yelp review metadata by business
-yelp_user.json:
-user profile metadata by business
-yelp_checkin.json:
-online checkin metadata by business
-yelp_tip.json:
-tip metadata by business
-yelp_photo.json:
-photo metadata by business
+With a dataset of different restaurant features and their Yelp rating we are going to use a Multiple Linear Regression model to investigate what factors most affect a restaurant's Yelp rating and predict the Yelp rating for your restaurant!
 
-The goad is to predict a restaurant's Yelp rating based on the data. 
+There is a list of files provided by Yelp: 
+
+ 1. yelp_business.json: establishment data regarding location and attributes for all businesses in the dataset
+
+2. yelp_review.json: Yelp review metadata by business
+
+3. yelp_user.json: user profile metadata by business
+
+4. yelp_checkin.json: online checkin metadata by business
+
+5. yelp_tip.json: tip metadata by business
+6. yelp_photo.json: photo metadata by business
+
+For a more detailed explanation of the features in each .json file, see the accompanying explanatory feature document.
