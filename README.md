@@ -18,4 +18,3 @@ There is a list of files provided by Yelp:
 5. yelp_tip.json: tip metadata by business
 6. yelp_photo.json: photo metadata by business
 
-For a more detailed explanation of the features in each .json file, see the accompanying explanatory feature document.
